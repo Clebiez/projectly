@@ -18,8 +18,10 @@ Clonez le dépôt. Il y a deux dossiers :
  
   ```npm install```
   
-  Dans le fichier app.js à la ligne 17, à la racine du dossier, renseignez votre base de données NoSQL
+  Dans le fichier app.js à la ligne 17, à la racine du dossier, renseignez votre base de données NoSQL.
 
+  Lancez le serveur mongoDB en tapant ```mongod``` dans votre prompteur :
+ 
   Lancez le serveur Node en tapant dans votre prompteur :
   ```node app.js```
 
